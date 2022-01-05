@@ -1,6 +1,6 @@
 # Notepad-cpp
 Notepad using cpp
-Tutorial Video: Install Qt 6 (2021) Open Source and Create C++ GUI on Windows https://youtu.be/O4XPgRLsGeM
+📌 Tutorial Video: Install Qt 6 (2021) Open Source and Create C++ GUI on Windows https://youtu.be/O4XPgRLsGeM
 
 saving the file 
 
